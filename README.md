@@ -21,4 +21,9 @@ Os exercícios estão organizados por **semestre** e, dentro de cada um, por **d
 * **Semestre 1:** Conteúdos iniciais e fundamentos.
 
 
-**Estrutura de Exemplo:**
+# Sobre mim
+
+<div> 
+  <a href="https://www.linkedin.com/in/lariodiniz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin Lário"></a>
+  <a href="https://medium.com/@lariodiniz" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium Lário"></a>
+</div>
